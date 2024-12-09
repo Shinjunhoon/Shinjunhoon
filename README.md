@@ -5,7 +5,7 @@
 ### STACK  💻
 ![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,docker,java,spring,figma&theme=light)
 
-### Tools 💻
+### collaboration tools 💻
 ![My Skills](https://skillicons.dev/icons?i=discord,github,notion&theme=light)
 
 
