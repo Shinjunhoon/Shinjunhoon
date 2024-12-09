@@ -1,4 +1,4 @@
-## Hi there 👋
+## SHIN JUNG HOON
 
 <!--
 **Shinjunhoon/Shinjunhoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinjunhoon&count_bg=%2379C83D&title_bg=%23555555&icon=java.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinjunhoon&count_bg=%2379C83D&title_bg=%23555555&icon=spring.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Platfroms & Languages 
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) 
+![SPRING](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+ 
+### Tools 
+![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 
