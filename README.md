@@ -1,4 +1,6 @@
-## SHIN JUNG HOON
+## SHIN JUNG HOON :shipit: 
+
+
 
 <!--
 **Shinjunhoon/Shinjunhoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Platfroms & Languages 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) 
-![SPRING](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### STACK  💻
+![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,docker,java,spring,figma&theme=light)
 
- 
-### Tools 
-![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+### Tools 💻
+![My Skills](https://skillicons.dev/icons?i=discord,github,notion&theme=light)
 
 
 
